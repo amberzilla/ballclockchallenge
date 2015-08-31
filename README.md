@@ -7,4 +7,4 @@ Attempt at solving the ball clock challenge in Ruby
 ```ruby
 ruby ball_clock.rb 
 ```
-3. Follow prompts!
+Follow prompts!

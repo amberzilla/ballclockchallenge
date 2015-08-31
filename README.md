@@ -1,4 +1,4 @@
-# ballclockchallenge
+# Ball Clock Challenge
 Attempt at solving the ball clock challenge in Ruby
 
 #To Run
